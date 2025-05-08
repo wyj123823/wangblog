@@ -3,11 +3,12 @@
 # See: https://gohugo.io/getting-started/configuration/
 # -------------------------------------------------------------------------------------
 
-title = "Hugo FixIt Blog"
+title = "老王blog"
 baseURL = "https://hugo-fixit.github.io/hugo-fixit-starter/"
 # theme = "FixIt"
-defaultContentLanguage = "en"
-languageCode = "en"
+defaultContentLanguage = "zh-cn"
+languageCode = "zh-CN"
+languageName = "简体中文"
 hasCJKLanguage = true
 enableRobotsTXT = true
 enableEmoji = true
