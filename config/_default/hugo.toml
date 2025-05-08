@@ -4,7 +4,7 @@
 # -------------------------------------------------------------------------------------
 
 title = "老王blog"
-baseURL = "https://hugo-fixit.github.io/hugo-fixit-starter/"
+baseURL = "https://wyj123823.github.io/wangblog/"
 # theme = "FixIt"
 defaultContentLanguage = "zh-cn"
 languageCode = "zh-CN"
