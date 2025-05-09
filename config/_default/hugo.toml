@@ -3,7 +3,7 @@
 # See: https://gohugo.io/getting-started/configuration/
 # -------------------------------------------------------------------------------------
 
-title = "老王blog"
+title = "老王的blog"
 baseURL = "https://wyj123823.github.io/wangblog/"
 # theme = "FixIt"
 defaultContentLanguage = "zh-cn"

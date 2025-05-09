@@ -6,9 +6,9 @@
 # FixIt 0.2.15 | CHANGED FixIt theme version
 version = "0.3.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
 # site description
-description = "This is my new Hugo FixIt site"
+description = "一个专注于高速数据采集与信号处理领域硬件设计的老登"
 # site keywords
-keywords = ["Hugo", "FixIt"]
+keywords = ["高速数据", "信号处理", "硬件设计"]
 # site default theme ["light", "dark", "auto"]
 defaultTheme = "auto"
 # which hash function used for SRI, when empty, no SRI is used
@@ -43,7 +43,7 @@ disableThemeInject = false
   name = "Lruihao"
   email = "1024@lruihao.cn"
   link = "https://github.com/Lruihao"
-  avatar = ""
+  avatar = "https://graph.baidu.com/pcpage/similar?carousel=503&entrance=GENERAL&extUiData%5BisLogoShow%5D=1&image=http%3A%2F%2Fmms1.baidu.com%2Fit%2Fu%3D2917481158,806675530%26fm%3D253%26app%3D138%26f%3DJPEG%3Fw%3D500%26h%3D667&index=0&inspire=general_pc&next=2&originSign=1215a353590d4b946ddf101746758222&page=1&render_type=carousel&session_id=16238361470680540657&shituToken=e6a91a&sign=1215a353590d4b946ddf101746758222&srcp=crs_pc_similar&tpl_from=pc"
 
 # FixIt 0.3.0 | NEW public Git repository information only then enableGitInfo is true
 [gitInfo]
