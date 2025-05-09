@@ -11,6 +11,7 @@ categories:
 ---
 
 Welcome to Hugo FixIt! This is your very first post.
+不拉不拉！！！
 
 <!--more-->
 
