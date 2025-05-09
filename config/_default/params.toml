@@ -40,9 +40,9 @@ disableThemeInject = false
 
 # Author Configuration
 [author]
-  name = "Lruihao"
-  email = "1024@lruihao.cn"
-  link = "https://github.com/Lruihao"
+  name = "laowang"
+  email = "laowang145asdd@163.com"
+  link = ""
   avatar = "https://graph.baidu.com/pcpage/similar?carousel=503&entrance=GENERAL&extUiData%5BisLogoShow%5D=1&image=http%3A%2F%2Fmms1.baidu.com%2Fit%2Fu%3D2917481158,806675530%26fm%3D253%26app%3D138%26f%3DJPEG%3Fw%3D500%26h%3D667&index=0&inspire=general_pc&next=2&originSign=1215a353590d4b946ddf101746758222&page=1&render_type=carousel&session_id=16238361470680540657&shituToken=e6a91a&sign=1215a353590d4b946ddf101746758222&srcp=crs_pc_similar&tpl_from=pc"
 
 # FixIt 0.3.0 | NEW public Git repository information only then enableGitInfo is true
@@ -115,7 +115,7 @@ disableThemeInject = false
   # Header title config
   [header.title]
     # URL of the LOGO
-    logo = "https://graph.baidu.com/pcpage/similar?carousel=503&entrance=GENERAL&extUiData%5BisLogoShow%5D=1&image=http%3A%2F%2Fmms1.baidu.com%2Fit%2Fu%3D443737343,669556167%26fm%3D253%26app%3D120%26f%3DJPEG%3Fw%3D500%26h%3D667&index=5&inspire=general_pc&next=2&originSign=121b5353590d4b946ddf101746762673&page=2&render_type=carousel&session_id=13602128696141442543&shituToken=15b795&sign=121b5353590d4b946ddf101746762673&srcp=crs_pc_similar&tpl_from=pc"
+    logo = "https://pic.rmb.bdstatic.com/bjh/down/71ac065e97133864ebae0d528d055a5b.jpeg@wm_2,t_55m+5a625Y+3L+S5neaciOmTtuadjw==,fc_ffffff,ff_U2ltSGVp,sz_30,x_19,y_19"
     # title name
     name = ""
     # you can add extra information before the name (HTML format is supported), such as icons
@@ -237,7 +237,7 @@ disableThemeInject = false
   [home.profile]
     enable = true
     # Gravatar Email for preferred avatar in home page
-    gravatarEmail = "xx@xx.com"
+    gravatarEmail = "670339003@qq.com"
     # URL of avatar shown in home page
     avatarURL = "https://graph.baidu.com/pcpage/similar?carousel=503&entrance=GENERAL&extUiData%5BisLogoShow%5D=1&image=http%3A%2F%2Fmms1.baidu.com%2Fit%2Fu%3D2917481158,806675530%26fm%3D253%26app%3D138%26f%3DJPEG%3Fw%3D500%26h%3D667&index=0&inspire=general_pc&next=2&originSign=1215a353590d4b946ddf101746758222&page=1&render_type=carousel&session_id=16238361470680540657&shituToken=e6a91a&sign=1215a353590d4b946ddf101746758222&srcp=crs_pc_similar&tpl_from=pc"
     # FixIt 0.2.17 | NEW identifier of avatar menu link
@@ -426,7 +426,7 @@ disableThemeInject = false
 # FixIt 0.3.10 | NEW Busuanzi count
 [busuanzi]
   # whether to enable busuanzi count
-  enable = false
+  enable = true
   # busuanzi count core script source. Default is https://vercount.one/js
   source = "https://vercount.one/js"
   # whether to show the site views
@@ -571,7 +571,7 @@ disableThemeInject = false
 # Page config
 [page]
   # FixIt 0.2.18 | NEW whether to enable the author's avatar of the post
-  authorAvatar = true
+  authorAvatar = false
   # whether to hide a page from home page
   hiddenFromHomePage = false
   # whether to hide a page from search results
