@@ -237,9 +237,9 @@ disableThemeInject = false
   [home.profile]
     enable = true
     # Gravatar Email for preferred avatar in home page
-    gravatarEmail = "670339003@qq.com"
+    gravatarEmail = ""
     # URL of avatar shown in home page
-    avatarURL = "https://graph.baidu.com/pcpage/similar?carousel=503&entrance=GENERAL&extUiData%5BisLogoShow%5D=1&image=http%3A%2F%2Fmms1.baidu.com%2Fit%2Fu%3D2917481158,806675530%26fm%3D253%26app%3D138%26f%3DJPEG%3Fw%3D500%26h%3D667&index=0&inspire=general_pc&next=2&originSign=1215a353590d4b946ddf101746758222&page=1&render_type=carousel&session_id=16238361470680540657&shituToken=e6a91a&sign=1215a353590d4b946ddf101746758222&srcp=crs_pc_similar&tpl_from=pc"
+    avatarURL = "https://cache.yisu.com/upload/information/20210521/354/277681.jpg"
     # FixIt 0.2.17 | NEW identifier of avatar menu link
     avatarMenu = ""
     # title shown in home page (HTML format is supported)
